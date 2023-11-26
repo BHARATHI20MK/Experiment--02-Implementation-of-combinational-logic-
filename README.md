@@ -19,15 +19,20 @@ F2=xy’z+x’y’z+w’xy+wx’y+wxy
 ## Logic Diagram
 ## Procedure
 ## Program:
-/*
 Program to implement the given logic function and to verify its operations in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
-*/
-## RTL realization
+Developed by: BHARATHI M K 
+RegisterNumber: 23010873 
+## Code:
+![ex2 code](https://github.com/BHARATHI20MK/Experiment--02-Implementation-of-combinational-logic-/assets/147474125/e61d7571-daee-4417-8144-46957d8a979e)
 
-## Output:
-## RTL
-## Timing Diagram
+## Truth Table:
+![WhatsApp Image 2023-11-26 at 19 45 52_6023d2f3](https://github.com/BHARATHI20MK/Experiment--02-Implementation-of-combinational-logic-/assets/147474125/c73f7c84-0b7e-4685-a3b7-007b3ec743fc)
+
+## RTL Diagram:
+![ex2 rtl](https://github.com/BHARATHI20MK/Experiment--02-Implementation-of-combinational-logic-/assets/147474125/dbfee3ec-b99f-4d55-8140-610d83269fa7)
+
+## Timing Diagram:
+![emp 2 wf](https://github.com/BHARATHI20MK/Experiment--02-Implementation-of-combinational-logic-/assets/147474125/23f93c79-94de-4e55-8a16-97d80f7d2a52)
+
 ## Result:
 Thus the given logic functions are implemented using  and their operations are verified using Verilog programming.
