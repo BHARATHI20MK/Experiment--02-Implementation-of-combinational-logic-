@@ -34,6 +34,6 @@ RegisterNumber: 23010873
 ## Timing Diagram:
 ![emp 2 wf](https://github.com/BHARATHI20MK/Experiment--02-Implementation-of-combinational-logic-/assets/147474125/1284c6c2-674d-4075-9063-edcf487a033d)
 
-##Result:
+Result:
 
 Thus the given logic functions are implemented using  and their operations are verified using Verilog programming.
