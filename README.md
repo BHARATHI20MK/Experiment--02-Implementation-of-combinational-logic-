@@ -23,7 +23,7 @@ Program to implement the given logic function and to verify its operations in qu
 Developed by: BHARATHI M K 
 RegisterNumber: 23010873 
 ## Code:
-![ex2 code](https://github.com/BHARATHI20MK/Experiment--02-Implementation-of-combinational-logic-/assets/147474125/e61d7571-daee-4417-8144-46957d8a979e)
+![ex2 code](https://github.com/BHARATHI20MK/Experiment--02-Implementation-of-combinational-logic-/assets/147474125/5eb7c850-2e9b-4294-8a04-b0a3ddf28505)
 
 ## Truth Table:
 ![WhatsApp Image 2023-11-26 at 19 45 52_6023d2f3](https://github.com/BHARATHI20MK/Experiment--02-Implementation-of-combinational-logic-/assets/147474125/c73f7c84-0b7e-4685-a3b7-007b3ec743fc)
